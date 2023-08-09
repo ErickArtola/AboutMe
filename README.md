@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErickArtola
 - 👀 I’m interested in computer programming, artificial intelligence, bioinformatics and tertiary genomic analysis
-- 🌱 I’m currently AWS Solutions Architecture, Machine Learning, Full Stack Development
-- 💞️ I’m looking to collaborate on genomic projects.
+- 🌱 I’m currently studying AWS Solutions Architecture, Machine Learning, Full Stack Development
+- 💞️ I work at AWS and would like to collaborate on projects.
 - 📫 How to reach me egeovanyartola@gmail.com
 
 <!---
